@@ -8,33 +8,26 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   	<link rel="stylesheet" type="text/css" href="css/index.css">
   	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
-	<title>Projet BOOTSRAP - index</title>
+	<title>Frida Kafé</title>
 </head>
 <body>
-
 <div class="header">
-
-<div class="jumbotron jumbotron-fluid">
+	<div class="jumbotron jumbotron-fluid">
 
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <!-- Brand/logo -->
-  		<!-- a class="navbar-brand" href="#">
-   		 <img src="img/logo1.jpg" alt="logo" style="width: 100px;">
-  		</a> --> 
-  		<h1>Frida Kafé </h1>
  
-  <!-- Links -->
-
- 		
+  		<h1>Frida Kafé </h1>           
+          
+ 
   		<ul class="navbar-nav ml-auto">
    			 <li class="nav-item">
-     			 <a class="nav-link" href="#">Accueil</a>
+     			 <a class="nav-link" href="index.php">Accueil</a>
    			 </li>
     		<li class="nav-item">
-     			 <a class="nav-link" href="#">Carte & Menus</a>
+     			 <a class="nav-link" href="carte.php">Carte & Menus</a>
     		</li>
     		<li class="nav-item">
-     			 <a class="nav-link" href="#">Photos</a>
+     			 <a class="nav-link" href="galerie.php">Photos</a>
     		</li>
     		<li class="nav-item">
      			 <a class="nav-link" href="#">Restaurant</a>
@@ -44,29 +37,7 @@
     		</li>
   		</ul>
   		
-
 	</nav>
-  </div>
+ 	</div>
 </div>
  
-
-
-<div class="container">
-	<div class="">
-	<div class="card-deck">
-  		<div class="card">
-    		<div class="card-body text-center">
-      		<p class="card-text">Some text inside the first card</p>
-   		 	</div>
-  		</div>
-  		<div class="card">
-    		<div class="card-body text-center">
-      		<p class="card-text">Some text inside the first card</p>
-    		</div>
-  		</div>
-    </div>  
-    </div>
-</div>
-
-</body>
-</html>
