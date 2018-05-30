@@ -30,13 +30,7 @@
 	    				Quesadilla veggie
 	    				<span class="badge badge-info badge-pill">4,50€</span>
 	  				</li>
-	  			</ul>
-
-
-
-
-				
-  			
+	  			</ul>  			
   			<br>
   			<ul class="list-group">
 
@@ -256,5 +250,10 @@
 </body>
 </html>
 
+<br>
+ 
+  
+
+<?php include("./partials/footer.php") ?>
 
    

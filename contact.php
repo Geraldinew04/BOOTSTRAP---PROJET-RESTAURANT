@@ -121,3 +121,9 @@ color: #149654;
 </body>
 </html>
 
+<br>
+ 
+  
+
+<?php include("./partials/footer.php") ?>
+
