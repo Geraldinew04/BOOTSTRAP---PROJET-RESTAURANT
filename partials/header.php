@@ -8,7 +8,10 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   	<link rel="stylesheet" type="text/css" href="css/index.css">
   	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+
 	<title>Cantina Kahlo</title>
+
+	
 </head>
 <body>
 <div class="header">
@@ -17,6 +20,7 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
  
   		<h1 style="color: #aea9a9">Cantina Kahlo</h1>           
+
           
  
   		<ul class="navbar-nav ml-auto">
@@ -34,7 +38,7 @@
     		</li>
     		<li class="nav-item">
      			 <a class="nav-link" href="contact.php">Contact</a>
-    		</li>
+ 
   		</ul>
   		
 	</nav>

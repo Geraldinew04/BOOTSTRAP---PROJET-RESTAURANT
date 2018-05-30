@@ -13,6 +13,7 @@
           <div class="card-body">
             <h5 class="card-title">A propos de nous</h5>
             <p class="card-text">
+
             Cantina Kahlo, c'est la passion de la cuisine mexicaine authentique. 
             Nos tacos, burritos et autres plats sont élaborés dans le respect de celle-ci, tout en y apportant une touche street food, et sont à déguster dans un cadre décoré aux couleurs et à l'éffigie de la célèbre peintre mexicaine, Frida Kahlo.
             </p>

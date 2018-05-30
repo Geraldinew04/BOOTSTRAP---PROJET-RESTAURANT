@@ -8,7 +8,9 @@
 
 			<ul class="list-group">
 
+
 					<li class="list-group-item list-group-item-action list-group-item-success">Entrées</li>
+
 	  				<li class="list-group-item d-flex justify-content-between align-items-center">
 	    				Nachos, salsa & guacamole
 	    				<span class="badge badge-info badge-pill">5,50€</span>
@@ -37,7 +39,9 @@
   			
   			<br>
   			<ul class="list-group">
+
 				<li class="list-group-item list-group-item-action list-group-item-success">Accompagnements</li>
+
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				Nachos & sauce fromage
     				<span class="badge badge-info badge-pill">2,50€</span>
@@ -72,7 +76,9 @@
   			<br>
 
   			<ul class="list-group">
+
 				<li class="list-group-item list-group-item-action list-group-item-success">Boissons</li>
+
 				<li class="list-group-item list-group-item-action list-group-item-warning">Softs</li>
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				Eau plate/pétillante
@@ -146,7 +152,9 @@
 
 			<ul class="list-group">
 
+
   				<li class="list-group-item list-group-item-action list-group-item-success">Tacos (3/pers)</li>
+
 
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				BOEUF, mariné au ancho chilli, riz citron & coriandre, concombre, choux rouge émincé, sauce ancho
@@ -165,7 +173,8 @@
 
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				CHILI, chili con carne façon Frida Kafé, riz citron & coriandre, beans blancs, sour cream
-    				<span class="badge bainfoinfo badge-pill">11,90€</span>
+    				<span class="badge badge-info badge-pill">11,90€</span>
+
   				</li>
 
 				 <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -177,7 +186,9 @@
 			<br>
 			
 			<ul class="list-group">
+
   				<li class="list-group-item list-group-item-action list-group-item-success">Plats</li>
+
 
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				THE CHILI, chili con carne façon Frida Kafé, riz citron & coriandre, beans rouges, beans blancs et nachos chips
@@ -185,7 +196,9 @@
   				</li>
 
   				<li class="list-group-item d-flex justify-content-between align-items-center">
+
    				 	CEVICHE, saumon mariné au jus de lime, mangue, grenade, concombre, oignons rouges et dés de tomates
+
     				<span class="badge badge-info badge-pill">13,90€</span>
   				</li>
 
@@ -200,7 +213,9 @@
   				<li class="list-group-item d-flex justify-content-between align-items-center">
     				BURRITOS, grande tortilla de froment, black beans, riz à la mexicaine, fromage, salade, pico de gallo, salsa, sour cream
     				<div class="card-footer text-muted">
+
    						 Au choix : boeuf, poulet, porc, chili
+
  					 </div>
     				<span class="badge badge-info badge-pill">13,90€</span>
   				</li>
@@ -225,12 +240,14 @@
 
 			</ul>
 
+
 			<br>
 
 			<div class="frida">
 				<img src="img/logo3.jpg" style="width: 300px; height: 300px; display: block; margin-right: auto;margin-left: auto; border-radius: 50%">
 				
 			</div>
+
 		</div>
 	
 	</div>
