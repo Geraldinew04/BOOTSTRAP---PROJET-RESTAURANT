@@ -98,7 +98,7 @@
      					<i class="fas fa-phone fa-2x"></i>
 
      				</p> 
-     				<p>081/ </p>
+     				<p> 081/ 24 53 22 </p>
      			</div>
 
      			<div class="fontawesome" style="text-align: center;">

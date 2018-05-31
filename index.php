@@ -69,9 +69,9 @@
 
           <div class="carousel-item">
             <img class="d-block w-100" src="img/chili_burrito.jpg" alt="burrito" style="max-width: 600px; width: 100%; height: 250px;">
-            <div class="carousel-caption d-none d-md-block" style="color: #000000;">
-                <h5><strong>STUDENT DEAL 6€ </strong></h5>
-                <p><strong>1 burrito + 1 boisson </strong> - <em>sur présentation de votre student card</em></p>
+            <div class="carousel-caption d-none d-md-block" style="color: #FFF;">
+                <h5 style="background-color: rgba(255, 0, 0, 0.4);"><strong>STUDENT DEAL 6€ </strong></h5>
+                <p style="background-color: rgba(255, 0, 0, 0.4);"><strong>1 burrito + 1 boisson </strong> - <em>sur présentation de votre student card</em></p>
             </div>
           </div>
 
