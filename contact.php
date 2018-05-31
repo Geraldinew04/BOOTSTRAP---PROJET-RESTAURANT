@@ -1,7 +1,5 @@
 <?php include("./partials/header.php") ?>
 
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
 font-family: Arial, Helvetica, sans-serif;
@@ -37,14 +35,15 @@ padding: 20px;
 }
 
 .contact{
-	background-color: #fdc415;
-	padding: 20px; 
+	background-color: rgba(253, 196, 21, 0.7);
+	padding: 40px; 
+	border-radius: 10%;	
 }
 
 h3{
 text-align: center; 
 padding-bottom: 20px; 
-color: #149654;
+color: #666;
 }
 
 #logo{
@@ -54,6 +53,14 @@ color: #149654;
 	border-radius: 50%;
 }
 
+#frida{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px; 
+	margin-top: 40px; 
+	border-radius: 50%;
+}
 
 </style>
 
@@ -61,69 +68,85 @@ color: #149654;
 <div class="container">
 
 	<div class="row">
-		<div class="col-sm-4">
-	  		<div class="container1">
-	  			<!-- <h3><a><img src="img/skull4.png"> Contact <img src="img/skull4.png"></a></h3> -->
-				<img src="img/cantina.jpg" class="center-block" id="logo" style="width: 200px; height:150px;">
-				
+
+		<div class="col-sm-4" style="background-color: rgba(253, 196, 21, 0.5); border-radius: 10%;	 ">
+
+			<div class="frida">
+				<img src="img/frida.jpg" class="center-block" id="frida" style="max-width: 200px; width: 100%; height: 350px;">				
 			</div>
+
+			<div class="row">
+				<div class="col-sm-12">
+					<div  class="titre" style="text-align: center; margin-top: 40px; ">
+						<h3 ><strong>FOLLOW US</strong></h3>
+					</div>
+				</div>
+			</div>
+			<div class="row" style="text-align: center;" >
+					<div class="col-sm-6">
+						<div class="facebook">
+							<i class="fab fa-facebook fa-2x" style=" color: #666"></i>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="instagram">
+							<i class="fab fa-instagram fa-2x" style=" color: #666"></i>
+						</div>
+				</div>
+			</div>	
 	  	</div>
 
 		<div class="col-sm-8">
 
-		  <form>
+		  	<form>
 
-		  	<div class="contact">
-		  	<div class="form-group">   
-		  		<label for="fname">First Name</label>
-		    	<input type="text" id="fname" name="firstname" placeholder="Your name..">
-			</div>
+			  	<div class="contact">
+				  	<div class="form-group">   
+				  		<label for="fname" style=" color: #666;">First Name</label>
+				    	<input type="text" id="fname" name="firstname" placeholder="Your name..">
+					</div>
 
-		  	<div class="form-group">
-		    	<label for="lname">Last Name</label>
-		    	<input type="text" id="lname" name="lastname" placeholder="Your last name..">
-			</div>
+				  	<div class="form-group">
+				    	<label for="lname" style=" color: #666">Last Name</label>
+				    	<input type="text" id="lname" name="lastname" placeholder="Your last name..">
+					</div>
 
-		  	<div class="form-group">
-				<label for="email">Email address</label>
-		  		<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-		  	</div>
+				  	<div class="form-group">
+						<label for="email" style=" color: #666">Email address</label>
+				  		<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+				  	</div>
 
-		  	<div class="form-group">
-			    <label for="message">Objet du message</label>
-			    <select id="message" name="message">
-			      <option value="reservation">Réservation</option>
-			      <option value="réclamation">Réclamation</option>
-			      <option value="evenement">Evénement</option>
-			      <option value="emploi">Emploi</option>
-			      <option value="autre">Autre</option>
-			    </select>
-			</div>
+				  	<div class="form-group">
+					    <label for="message" style=" color: #666">Objet du message</label>
+					    <select id="message" name="message">
+					      <option value="reservation">Réservation</option>
+					      <option value="réclamation">Réclamation</option>
+					      <option value="evenement">Evénement</option>
+					      <option value="emploi">Emploi</option>
+					      <option value="autre">Autre</option>
+					    </select>
+					</div>
 
-		  	<div class="form-group">
-			    <label for="subject">Message</label>
-			    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-			</div>
-			<div class="button" style="text-align: right;">
-    			<input type="submit" value="Submit" >
-			
-			</div>
-		  </form>
-		  </div>
+				  	<div class="form-group">
+					    <label for="subject" style=" color: #666">Message</label>
+					    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+					</div>
+					<div class="button" style="text-align: right;">
+		    			<input type="submit" value="Submit" >
+					
+					</div>
 
-	  </div>
+				</div>
 
-	 
+		  	</form>
 
-	</div>  
+	    </div>
+
+	</div>
+ 
 </div>
-
-</body>
-</html>
 
 <br>
  
-  
-
 <?php include("./partials/footer.php") ?>
 

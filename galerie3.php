@@ -5,7 +5,7 @@
 <div class="row">
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/tacos.jpeg" alt="tacos" style="width:300px; height:225px;">
+      			<a><img src="img/tacos.jpeg" alt="tacos" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Tacos</p>
         				</div>
@@ -14,7 +14,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/chiliconcarne.jpeg" alt="chiliconcarne" style="width:300px; height:225px;">
+      			<a><img src="img/chiliconcarne.jpeg" alt="chiliconcarne" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Chili con carne</p>
         				</div>
@@ -23,7 +23,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/ensaladas.jpg" alt="ensaladas" style="width:300px; height:225px;">
+      			<a><img src="img/ensaladas.jpg" alt="ensaladas" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
       						<p class="legende" style="text-align: center;">Ensaladas</p>
         				</div>

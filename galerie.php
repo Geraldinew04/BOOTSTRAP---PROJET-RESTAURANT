@@ -5,7 +5,7 @@
 
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/margarita.jpg" alt="margarita" style="width:300px; height:225px;">
+      			<a><img src="img/margarita.jpg" alt="margarita" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Margarita</p>
         				</div>
@@ -14,7 +14,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/cubalibre.jpeg" alt="cubalibre" style="width:300px; height:225px;">
+      			<a><img src="img/cubalibre.jpeg" alt="cubalibre" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Cuba libre</p>
         				</div>
@@ -23,7 +23,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/jarritos.jpg" alt="Jarritos" style="width:300px; height:225px;">
+      			<a><img src="img/jarritos.jpg" alt="Jarritos" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
       						<p class="legende" style="text-align: center;">Jarritos</p>
         				</div>

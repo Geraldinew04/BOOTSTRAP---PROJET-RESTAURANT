@@ -5,7 +5,7 @@
 
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/burrito.jpg" alt="burrito" style="width:300px; height:225px;">
+      			<a><img src="img/burrito.jpg" alt="burrito" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Burrito</p>
         				</div>
@@ -14,7 +14,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/chimichanga.jpeg" alt="chimichanga" style="width:300px; height:225px;">
+      			<a><img src="img/chimichanga.jpeg" alt="chimichanga" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Chimichanga</p>
         				</div>
@@ -23,7 +23,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/fajitas.jpg" alt="Jarritos" style="width:300px; height:225px;">
+      			<a><img src="img/fajitas.jpg" alt="Jarritos" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
       						<p class="legende" style="text-align: center;">Fajitas</p>
         				</div>

@@ -5,7 +5,7 @@
 
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/nachos.jpg" alt="nachos" style="width:300px; height:225px;">
+      			<a><img src="img/nachos.jpg" alt="nachos" style="max-width:300px;width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Nachos</p>
         				</div>
@@ -14,7 +14,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/onion.jpg" alt="onion" style="width:300px; height:225px;">
+      			<a><img src="img/onion.jpg" alt="onion" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
           					<p class="legende" style="text-align: center;">Onion rings</p>
         				</div>
@@ -23,7 +23,7 @@
   		</div>
   		<div class="col-md-4">
     		<div class="thumbnail">
-      			<a><img src="img/quesadillas.jpg" alt="quesadillas" style="width:300px; height:225px;">
+      			<a><img src="img/quesadillas.jpg" alt="quesadillas" style="max-width:300px; width: 100%; height:225px;">
         				<div class="caption">
       						<p class="legende" style="text-align: center;">Quesadillas</p>
         				</div>

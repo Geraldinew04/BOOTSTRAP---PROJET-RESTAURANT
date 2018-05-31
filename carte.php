@@ -238,7 +238,7 @@
 			<br>
 
 			<div class="frida">
-				<img src="img/logo3.jpg" style="width: 300px; height: 300px; display: block; margin-right: auto;margin-left: auto; border-radius: 50%">
+				<img src="img/logo3.jpg" style="max-width: 300px; width: 100%; height: 300px; display: block; margin-right: auto;margin-left: auto; border-radius: 50%">
 				
 			</div>
 
