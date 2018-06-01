@@ -1,8 +1,4 @@
 <?php include("./partials/header.php") ?>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
- ">
-
 
 <style>
 	.vert {
@@ -58,7 +54,7 @@
 		<div class="col-sm-4">
 			<br>
 			<div class="map" style="display: block; margin-right: auto; margin-left: auto; vertical-align: middle;">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1265.053428144191!2d5.574051358110277!3d50.643706595774944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0fa0e930c5adf%3A0xadc69f300d775f3b!2sRue+Souverain+Pont+40%2C+4000+Li%C3%A8ge!5e0!3m2!1sfr!2sbe!4v1527684014613" max-width="400" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1265.053428144191!2d5.574051358110277!3d50.643706595774944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c0fa0e930c5adf%3A0xadc69f300d775f3b!2sRue+Souverain+Pont+40%2C+4000+Li%C3%A8ge!5e0!3m2!1sfr!2sbe!4v1527684014613" title="map" max-width="400" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 		</div>
 
@@ -120,7 +116,7 @@
 		<div class="col-sm-4">
 			<br>
 			<div class="map" style="display: block; margin-right: auto; margin-left: auto; vertical-align: middle;">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1115.1037558040953!2d4.863612023722619!3d50.464660800813746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c1996de33648b7%3A0x6325922f666bce6f!2sRue+Haute+Marcelle+22%2C+5000+Namur!5e0!3m2!1sfr!2sbe!4v1527686397354" max-width="400" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1115.1037558040953!2d4.863612023722619!3d50.464660800813746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c1996de33648b7%3A0x6325922f666bce6f!2sRue+Haute+Marcelle+22%2C+5000+Namur!5e0!3m2!1sfr!2sbe!4v1527686397354" title="map" max-width="400" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 		</div>
 
